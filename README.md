@@ -1,4 +1,4 @@
-# tryingjson
+# Poke APP
 
 A new Flutter project.
 
