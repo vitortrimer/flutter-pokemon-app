@@ -4,11 +4,8 @@ Learning API Calls with flutter, following MTECHVIRAL tutorial.
 
 # Screenshots
 
-<img width="200" alt="Captura de Tela 2019-10-10 às 10 53 16" src="https://user-images.githubusercontent.com/20425570/66575822-fd3a2980-eb4c-11e9-8292-0274734cf8fb.png">
-
 <img width="200" alt="Captura de Tela 2019-10-10 às 10 52 53" src="https://user-images.githubusercontent.com/20425570/66576133-8cdfd800-eb4d-11e9-9fe2-09885cc57f36.png">
-
-
+<img width="200" alt="Captura de Tela 2019-10-10 às 10 53 16" src="https://user-images.githubusercontent.com/20425570/66575822-fd3a2980-eb4c-11e9-8292-0274734cf8fb.png">
 
 ## Getting Started
 
